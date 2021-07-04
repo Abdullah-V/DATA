@@ -1,0 +1,38 @@
+[
+    {
+        "repo": "MEVN-stack-twitter-clone",
+        "description": "MEVN stack twitter clone",
+        "language": "Vue",
+        "stars": "33",
+    },
+    {
+        "repo": "HMSC",
+        "description": "HMSC (How Much Stuffs CLI) analyst for your files and folders",
+        "language": "JavaScript",
+        "stars": "24",
+    },
+    {
+        "repo": "Turkce-Atasozleri-icin-API",
+        "description": "Türkçe atasözleri için APİ",
+        "language": "JavaScript",
+        "stars": "8",
+    },
+    {
+        "repo": "cargoglobal-frontend",
+        "description": "Cargoglobal is a site for sharing logistics advertisements",
+        "language": "Vue",
+        "stars": "1",
+    },
+    {
+        "repo": "website",
+        "description": "My personal website",
+        "language": "Vue",
+        "stars": "4",
+    },
+    {
+        "repo": "javascript-useful-functions",
+        "description": "Useful javascript functions where not included in the javascript standard",
+        "language": "JavaScript",
+        "stars": "13",
+    }
+]
