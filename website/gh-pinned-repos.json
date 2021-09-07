@@ -9,7 +9,7 @@
         "repo": "HMSC",
         "description": "HMSC (How Much Stuffs CLI) analyst for your files and folders",
         "language": "JavaScript",
-        "stars": "24"
+        "stars": "25"
     },
     {
         "repo": "Turkce-Atasozleri-icin-API",
@@ -30,9 +30,9 @@
         "stars": "4"
     },
     {
-        "repo": "javascript-useful-functions",
-        "description": "Useful javascript functions where not included in the javascript standard",
+        "repo": "Turkce-Bloglar",
+        "description": "Yazılım, programlama, teknoloji ve kariyer hakkındaki türkçe bloglar",
         "language": "JavaScript",
-        "stars": "13"
+        "stars": "2"
     }
 ]
